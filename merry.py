@@ -7,11 +7,6 @@ import sys
 import threading
 import time
 
-from ompl import base
-from ompl import control
-from ompl import geometric
-from ompl.geometric import RRTstar
-
 from sensor_msgs.msg import JointState
 from sensor_msgs.msg import PointCloud
 from visualization_msgs.msg import InteractiveMarkerFeedback
