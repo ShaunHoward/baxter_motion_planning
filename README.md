@@ -1,5 +1,5 @@
 # baxter_motion_planning
-Motion planning setup for Baxter robot using OMPL python bindings.
+Motion planning prototype setup for Baxter robot using OMPL python bindings.
 
 
 # Install Rospy
@@ -34,7 +34,7 @@ import freenect
 import pcl
 
 
-# Install Django and Postgres (necessary)
+# Install Django and Postgres (unnecessary)
 - Install django: pip install Django==1.9.7
 - pip install psycopg2 colour
 
